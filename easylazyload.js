@@ -1,3 +1,9 @@
+/**
+ * EasyLazyLoad.js v1.0.0
+ * Copyright (c) 2023, Paul Harrer
+ * Released under the GNU Affero General Public License v3.0.
+ */
+
 const lazyLoad = {
   loadImage: (image) => {
     const src = image.getAttribute("data-img");
