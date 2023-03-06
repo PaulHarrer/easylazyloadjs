@@ -8,7 +8,7 @@ In order to use the library, just add the image source as a data attribute to th
 import the lazyLoad function of the easylazyload.js file and call the init method. Thats it.
 
 ```
-<img src="" data-src="http://via.placeholder.com/640x360" />
+<img src="" data-img="http://via.placeholder.com/640x360" />
 ```
 
 
